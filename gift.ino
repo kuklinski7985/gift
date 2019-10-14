@@ -16,7 +16,7 @@ int led2 = 6;
 int led3 = 5;
 int led4 = 4;
 int led5 = 3;
-int button_interr = 0;
+//int button_interr = 0;
 
 /*static int button_press;
 
